@@ -1,50 +1,51 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
 
+
+
+
+
+
+
+
+
+
+
+# =========================
+# =========================
+# =========================
+# Directories potentially created on remote AFP share
+# Files that might appear on external disk
 # Folder config file
-Desktop.ini
-
+# OSX
+# Operating System Files
+# Project files
 # Recycle Bin used on file shares
-$RECYCLE.BIN/
-
+# Thumbnails
 # Windows Installer files
+# Windows image file caches
+# Windows shortcuts
+$RECYCLE.BIN/
 *.cab
+*.lnk
 *.msi
 *.msm
 *.msp
-
-# Project files
 *.suo
 *.user
 *.vspscc
-Web.Debug.config
-Web.Release.config
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
+.AppleDouble
+.DS_Store
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+.apdisk
+/publish
+Desktop.ini
 Network Trash Folder
 Temporary Items
-.apdisk
+Thumbs.db
+Web.Debug.config
+Web.Release.config
+ehthumbs.db

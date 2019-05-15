@@ -107,6 +107,8 @@ http://localhost:5000/
 1. ソースファイルの中の cmdnetcore ディレクトリへ移動します。
 1. ```build.sh``` を実行しビルドを行います。
 1. ```codedefiner.sh``` を実行し SQL Server を構成します。
+  * `/s` オプションを渡すことにより、 SQL Server の SA アカウントの接続パスワードを入力出来ます。
+  *Please enter the SA password.* と表示されたらパスワードを入力し、ENTER を押して下さい。
 1. ```pleasanter.sh``` を実行しプリザンターを実行します。
 1. ブラウザで ```http://localhost:5000/``` へアクセスします。
 
